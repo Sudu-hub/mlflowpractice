@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7406303b36c043b68c6698e5690ec461/artifacts
+deleted_time: 1742525474388
+end_time: 1742525339951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7406303b36c043b68c6698e5690ec461
+run_name: capricious-dog-584
+run_uuid: 7406303b36c043b68c6698e5690ec461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742525339856
+status: 4
+tags: []
+user_id: sudar

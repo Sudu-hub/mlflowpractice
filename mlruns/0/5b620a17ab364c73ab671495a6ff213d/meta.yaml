@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5b620a17ab364c73ab671495a6ff213d/artifacts
+end_time: 1742525363751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b620a17ab364c73ab671495a6ff213d
+run_name: upset-elk-513
+run_uuid: 5b620a17ab364c73ab671495a6ff213d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742525363556
+status: 3
+tags: []
+user_id: sudar
